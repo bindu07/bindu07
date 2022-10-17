@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bindu Priya. I am working as Software Developer at IAG, NZ (an Insurance company in New Zealand). nt.
+- 👋 Hi, I’m Bindu Priya. I am working as Software Developer at IAG, NZ (an Insurance company in New Zealand).
 - 👀 I’m interested in all the things about web and mobile development.Love to explore new technologies.
 - 🌱 I’m currently learning about MFE's(micro frontends) in React.
 - 💞️ I’m looking to collaborate on JavaScript,TypeScript,Python.
